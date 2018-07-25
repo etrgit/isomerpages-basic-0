@@ -6,7 +6,7 @@ title: Contact Us
 ---
 
 ### **HQ Address**
-address: Yellow Brick Road <br>
+Address: Yellow Brick Road <br>
 1 Wizard of Oz Land <br>
 Singapore 123456
 
@@ -20,7 +20,7 @@ Closed on Weekends and Public Holidays <br>
 ### **Contact Us**
 #### General Enquiries & Feedback
 +65 1234 5678 <br>
-test@fictitious.email.sg
+[test@fictitious.email.sg](mailto:test@fictitious.email.sg)
 
 #### Fax
 +65 1234 5678
