@@ -4,14 +4,14 @@
 #                                #
 ##################################
 
-- title: Page A
-  url: /page-A/
-- title: Page B
-  url: /page-B/
-- title: Page C
-  url: /page-C/
-- title: Page D
-  url: /page-D/
-- title: Who We Are
-  url: /who-we-are/
+# - title: Page A
+#   url: /page-A/
+# - title: Page B
+#   url: /page-B/
+# - title: Page C
+#   url: /page-C/
+# - title: Page D
+#   url: /page-D/
+# - title: Who We Are
+#   url: /who-we-are/
 
