@@ -8,7 +8,7 @@ title: Contact Us
 ### **HQ Address**
 Address: Yellow Brick Road <br>
 1 Wizard of Oz Land <br>
-Singapore 123456
+Testing 123456
 
 Directions: [Map](https://www.onemap.sg/main/v2/?lat=1.30366583776968&lng=103.823998391692)
 
